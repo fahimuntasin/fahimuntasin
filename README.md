@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me:Hey, I'm Fahimun Tasin 👋
+Full-Stack Developer · Builder · Tech Explorer
 React
 
 
