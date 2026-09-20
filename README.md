@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Fahimun%20Tasin&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Building%20software%20%7C%20AI%20%7C%20automation%20%7C%20systems&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Fahimun%20Tasin&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20%7C%20AI%20%7C%20Automation%20%7C%20Systems&descAlignY=60&descSize=16" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI-Assisted+Builder;Automation+%26+Backend+Systems;Linux+%26+Self-Hosted+Infrastructure;Creative+Technology+%26+Hardware" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI-Assisted+Builder;Automation+%26+Backend+Systems;Linux+%26+Self-Hosted+Infrastructure;ESP32+%26+Creative+Technology" />
 
 <br/><br/>
 
 <a href="https://meadowget.softism.space">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20PROJECT-MeadowGet-111111?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20LIVE-MeadowGet-111111?style=for-the-badge"/>
 </a>
 
 </div>
@@ -18,13 +18,11 @@
 
 ## 👋 About
 
-I'm **Fahimun Tasin**, a developer who likes turning ideas into working products.
+I'm **Fahimun Tasin**, a developer who enjoys turning ideas into working products.
 
-I work mainly with **JavaScript / TypeScript**, building web applications, APIs, automation systems, AI-powered tools and self-hosted infrastructure.
+I mainly work with **JavaScript & TypeScript**, building web applications, APIs, automation systems, AI-powered tools and self-hosted infrastructure.
 
-I also enjoy experimenting with **Linux, video processing, creative technology and ESP32 hardware**.
-
-> I like building things, breaking them, figuring out why they broke — and building them better.
+I also experiment with **Linux, media processing, creative technology and ESP32 hardware**.
 
 ---
 
@@ -35,19 +33,24 @@ I also enjoy experimenting with **Linux, video processing, creative technology a
 <td width="50%">
 
 ### 💻 Software
+
 - Full-stack web applications
 - Backend & APIs
 - SaaS products
-- Dashboards & developer tools
+- Developer tools
+- Automation systems
 
 </td>
+
 <td width="50%">
 
 ### 🤖 AI & Automation
+
 - AI-powered applications
 - AI-assisted development
 - Agent workflows
-- Content & media automation
+- Automation pipelines
+- Content / media automation
 
 </td>
 </tr>
@@ -56,6 +59,7 @@ I also enjoy experimenting with **Linux, video processing, creative technology a
 <td>
 
 ### 🐧 Infrastructure
+
 - Linux
 - VPS & servers
 - Docker
@@ -64,14 +68,16 @@ I also enjoy experimenting with **Linux, video processing, creative technology a
 - Deployment & process management
 
 </td>
+
 <td>
 
 ### 🔌 Hardware
+
 - ESP32
-- IoT experiments
+- Wi-Fi / networking experiments
+- IoT projects
 - Sensors & modules
-- Basic electronics
-- Hardware + software projects
+- Hardware + software systems
 
 </td>
 </tr>
@@ -79,53 +85,70 @@ I also enjoy experimenting with **Linux, video processing, creative technology a
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech I Work With
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js&perline=4" />
+<img src="https://skillicons.dev/icons?i=ts,js&perline=4"/>
 
 ### Web & Backend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,prisma&perline=5" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,prisma&perline=5"/>
 
 ### Infrastructure & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,docker,redis,git,github,cloudflare&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,docker,redis,git,github,cloudflare&perline=6"/>
 
 ### Hardware
 
-<img src="https://skillicons.dev/icons?i=arduino&perline=4" />
+<img src="https://skillicons.dev/icons?i=arduino&perline=4"/>
 
 </div>
 
 ---
 
-## 🚀 Live Project
+# 🚀 Projects
 
-<div align="center">
+### 🌐 MeadowGet
 
-### MeadowGet
+A web platform for downloading videos from supported online sources.
 
-**A simple web platform for downloading videos from supported online sources.**
-
-<a href="https://meadowget.softism.space">
-<img src="https://img.shields.io/badge/Visit%20MeadowGet-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
+**Live:**  
+https://meadowget.softism.space
 
 ---
 
-## 🧪 Things I've Built
+### 📡 NanoExtend
+
+**Tiny ESP32. Big Network.**
+
+An open-source ESP32 Wi-Fi NAT travel router with a local dashboard, networking features and a focus on self-hosted connectivity.
+
+**Built around:** ESP32 · Wi-Fi · Networking · Embedded Systems
+
+🔗 https://github.com/fahimuntasin/NanoExtend
+
+---
+
+# 🌱 Open Source
+
+### Ironic
+
+I've contributed to **Ironic**, a modular Rust application framework.
+
+The project focuses on building type-safe, modular applications with components such as dependency injection, controllers, middleware, guards, pipes, WebSocket gateways, scheduling, caching and OpenAPI.
+
+🔗 https://github.com/ironic-org/ironic
+
+---
+
+## 🧪 Other Things I've Built
 
 Not everything I've built is currently hosted.
 
-Some projects are **live**, while others are previous builds, experiments, prototypes, or private projects.
-
-### Areas I've worked on
+Some are previous projects, private builds, experiments or prototypes.
 
 ```text
 Web Applications
